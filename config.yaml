@@ -72,6 +72,3 @@ menu:
   - URL: contact
     name: Contact
     weight: 2
-  - URL: about
-    name: About
-    weight: 1

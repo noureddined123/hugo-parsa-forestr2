@@ -5,7 +5,7 @@ description: This is meta description
 image: images/author.jpg
 menu:
   main:
-    weight: 3
+    weight: 1
 
 ---
 Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
